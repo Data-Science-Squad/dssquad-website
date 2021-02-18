@@ -28,4 +28,4 @@ git push origin my_branch_name
 
 ### Pull request
 
-Testing a pull request
+Once you've pushed content to your branch.
