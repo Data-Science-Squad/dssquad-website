@@ -28,4 +28,6 @@ git push origin my_branch_name
 
 ### Pull request
 
-Once you've pushed content to your branch.
+Submit a Pull Request to merge features into the main branch.
+
+https://github.com/Data-Science-Squad/dssquad-datakit/wiki/Creating-a-Pull-Request
