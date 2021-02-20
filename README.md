@@ -1,13 +1,14 @@
 # ds-squad website
 
-This repo is the source of the DS-Squad project website. 
+This repo is the source of the development and production versions of the DS-Squad project website. 
+
+The website is built with [blogdown](https://bookdown.org/yihui/blogdown/) and [Hugo](https://bookdown.org/yihui/blogdown/hugo.html) and deployed with [Netlify](https://www.netlify.com/) via continuous deployment. Netlify automatically deploys the development site from the `develop` branch and the production site from the `main` branch. 
 
 # Website status
 
-### Dev
+**Dev:** [![Dev](https://api.netlify.com/api/v1/badges/dc1ca595-9b62-4d9f-bc21-9386f156bbb3/deploy-status)](https://app.netlify.com/sites/kind-cori-6e2daa/deploys)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/dc1ca595-9b62-4d9f-bc21-9386f156bbb3/deploy-status)](https://app.netlify.com/sites/kind-cori-6e2daa/deploys)
-
+**Prod:** 
 # Contributing to the repository
 
 ### Clone the repository
