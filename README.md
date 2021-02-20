@@ -6,7 +6,7 @@ This repo is the source of the DS-Squad project website.
 
 ### Dev
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bca2f2eb-74d0-4cf5-b31d-b9a809f959f4/deploy-status)](https://app.netlify.com/sites/trusting-pike-86bdf6/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dc1ca595-9b62-4d9f-bc21-9386f156bbb3/deploy-status)](https://app.netlify.com/sites/kind-cori-6e2daa/deploys)
 
 # Contributing to the repository
 
