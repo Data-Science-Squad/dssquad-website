@@ -6,9 +6,10 @@ The website is built with [blogdown](https://bookdown.org/yihui/blogdown/) and [
 
 # Website status
 
-**Dev:** [![Dev](https://api.netlify.com/api/v1/badges/dc1ca595-9b62-4d9f-bc21-9386f156bbb3/deploy-status)](https://app.netlify.com/sites/kind-cori-6e2daa/deploys)
+**Dev:** [![Netlify Dev Status](https://api.netlify.com/api/v1/badges/dc1ca595-9b62-4d9f-bc21-9386f156bbb3/deploy-status)](https://app.netlify.com/sites/dssquad-dev/deploys)
 
-**Prod:** 
+**Prod:** [![Netlify Prod Status](https://api.netlify.com/api/v1/badges/5ecdf1d1-863c-4109-a082-e7a174e9f8d2/deploy-status)](https://app.netlify.com/sites/dssquad-prod/deploys)
+
 # Contributing to the repository
 
 ### Clone the repository
