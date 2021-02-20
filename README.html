@@ -205,27 +205,41 @@ summary {
 <h1>Contributing to the repository</h1>
 <div id="clone-the-repository" class="section level3">
 <h3>Clone the repository</h3>
-<pre><code>git clone https://github.com/Data-Science-Squad/dssquad-website.git</code></pre>
+<pre><code># via HTTPS
+git clone https://github.com/Data-Science-Squad/dssquad-website.git
+
+# or via SSH
+git clone git@github.com:Data-Science-Squad/dssquad-website.git</code></pre>
 </div>
-<div id="create-a-branch-that-signals-your-contribution" class="section level3">
-<h3>Create a branch that signals your contribution</h3>
+<div id="pull-the-current-state-of-the-remote-development-branch" class="section level3">
+<h3>Pull the current state of the remote development branch</h3>
+<pre><code>git checkout develop
+git pull origin develop</code></pre>
+</div>
+<div id="create-a-feature-branch" class="section level3">
+<h3>Create a feature branch</h3>
+<p>A feature branch is a branch dedicated to a specific feature of the website. For example, to contribute a Markdown article describing yourself and your experience on the project, create a branch named <code>firstname_lastname_about_me_article</code>.</p>
 <p>Examples:</p>
 <ul>
-<li><code>git checkout -b website_layout</code></li>
-<li><code>git checkout -b firstname_lastname_about_me</code></li>
-<li><code>git checkout -b article_about_some_topic</code></li>
+<li><code>git checkout -b new_hugo_theme</code></li>
+<li><code>git checkout -b firstname_lastname_about_me_article</code></li>
 </ul>
 </div>
-<div id="push-content-to-your-branch" class="section level3">
-<h3>Push content to your branch</h3>
-<pre><code>git add my_article.md
-git commit -m &quot;adding my_new_file.py&quot;
-git push origin my_branch_name</code></pre>
+<div id="commit-files-and-push-your-feature-branch" class="section level3">
+<h3>Commit files and push your feature branch</h3>
+<p>Example:</p>
+<ul>
+<li>branch: <code>firstname_lastname_about_me_article</code></li>
+<li>filename: <code>content/post/firstname_lastname_about_me_article.md</code></li>
+</ul>
+<pre><code>git add content/post/firstname_lastname_about_me_article.md
+git commit -m &quot;updating the Meet the Team page with article about myself&quot;
+git push origin firstname_lastname_about_me_article</code></pre>
 </div>
-<div id="pull-request" class="section level3">
-<h3>Pull request</h3>
-<p>Submit a Pull Request to merge features into the main branch.</p>
+<div id="submit-pull-request-to-merge-feature-branch-into-the-develop-branch" class="section level3">
+<h3>Submit Pull Request to merge feature branch into the develop branch</h3>
 <p><a href="https://github.com/Data-Science-Squad/dssquad-datakit/wiki/Creating-a-Pull-Request" class="uri">https://github.com/Data-Science-Squad/dssquad-datakit/wiki/Creating-a-Pull-Request</a></p>
+<p>Submit a Pull Request to merge your feature branch into the <code>develop</code> branch. An administrator will review the Pull Request and approve/reject the merge.</p>
 </div>
 </div>
 

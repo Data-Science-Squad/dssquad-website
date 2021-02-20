@@ -15,27 +15,45 @@ The website is built with [blogdown](https://bookdown.org/yihui/blogdown/) and [
 ### Clone the repository
 
 ```
+# via HTTPS
 git clone https://github.com/Data-Science-Squad/dssquad-website.git
+
+# or via SSH
+git clone git@github.com:Data-Science-Squad/dssquad-website.git
 ```
 
-### Create a branch that signals your contribution
+### Pull the current state of the remote development branch
+
+```
+git checkout develop
+git pull origin develop
+```
+
+### Create a feature branch
+
+A feature branch is a branch dedicated to a specific feature of the website. For example, to contribute a Markdown article describing yourself and your experience on the project, create a branch named `firstname_lastname_about_me_article`.
 
 Examples:
 
-  - `git checkout -b website_layout`
-  - `git checkout -b firstname_lastname_about_me`
-  - `git checkout -b article_about_some_topic`
+  - `git checkout -b new_hugo_theme`
+  - `git checkout -b firstname_lastname_about_me_article`
 
-### Push content to your branch
+### Commit files and push your feature branch
+
+Example:
+
+  - feature branch: `firstname_lastname_about_me_article`
+  - filename: `content/post/firstname_lastname_about_me_article.md`
 
 ```
-git add my_article.md
-git commit -m "adding my_new_file.py"
-git push origin my_branch_name
+git add content/post/firstname_lastname_about_me_article.md
+git commit -m "updating the Meet the Team page with article about myself"
+git push origin firstname_lastname_about_me_article
 ```
 
-### Pull request
-
-Submit a Pull Request to merge features into the main branch.
+### Submit Pull Request to merge feature branch into the develop branch
 
 https://github.com/Data-Science-Squad/dssquad-datakit/wiki/Creating-a-Pull-Request
+
+Submit a Pull Request to merge your feature branch into the `develop` branch. An
+administrator will review the Pull Request and approve/reject the merge.
