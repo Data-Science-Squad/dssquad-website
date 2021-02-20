@@ -25,6 +25,7 @@ git clone git@github.com:Data-Science-Squad/dssquad-website.git
 ### Pull the current state of the remote development branch
 
 ```
+cd dssquad-website
 git checkout develop
 git pull origin develop
 ```
