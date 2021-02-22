@@ -1,5 +1,7 @@
 # ds-squad website
 
+**Website Lead:** [Abdul-Mateen Qamardeen](https://www.linkedin.com/in/abdul-mateen-qamardeen-4167331b6/?originalSubdomain=ng)
+
 This repo is the source of the development and production versions of the DS-Squad project website. 
 
 The website is built with [blogdown](https://bookdown.org/yihui/blogdown/) and [Hugo](https://bookdown.org/yihui/blogdown/hugo.html) and deployed with [Netlify](https://www.netlify.com/) via continuous deployment. Netlify automatically deploys the development site from the `develop` branch and the production site from the `main` branch. 
@@ -12,49 +14,4 @@ The website is built with [blogdown](https://bookdown.org/yihui/blogdown/) and [
 
 # Contributing to the repository
 
-### Clone the repository
-
-```
-# via HTTPS
-git clone https://github.com/Data-Science-Squad/dssquad-website.git
-
-# or via SSH
-git clone git@github.com:Data-Science-Squad/dssquad-website.git
-```
-
-### Pull the current state of the remote development branch
-
-```
-cd dssquad-website
-git checkout develop
-git pull origin develop
-```
-
-### Create a feature branch
-
-A feature branch is a branch dedicated to a specific feature of the website. For example, to contribute a Markdown article describing yourself and your experience on the project, create a branch named `firstname_lastname_about_me_article`.
-
-Examples:
-
-  - `git checkout -b new_hugo_theme`
-  - `git checkout -b firstname_lastname_about_me_article`
-
-### Commit files and push your feature branch
-
-Example:
-
-  - feature branch: `firstname_lastname_about_me_article`
-  - filename: `content/post/firstname_lastname_about_me_article.md`
-
-```
-git add content/post/firstname_lastname_about_me_article.md
-git commit -m "updating the Meet the Team page with article about myself"
-git push origin firstname_lastname_about_me_article
-```
-
-### Submit Pull Request to merge feature branch into the develop branch
-
-https://github.com/Data-Science-Squad/dssquad-datakit/wiki/Creating-a-Pull-Request
-
-Submit a Pull Request to merge your feature branch into the `develop` branch. An
-administrator will review the Pull Request and approve/reject the merge.
+Visit the [Project Wiki](https://dssquad-wiki.netlify.app/) to learn about contributing.
