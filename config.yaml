@@ -1,0 +1,49 @@
+theme: bento
+languageCode: en-us
+baseurl: https://www.example.com/
+title: Bento
+author: Leonardo Faria
+copyright: MIT
+taxonomies:
+  category: categories
+  disqusShortname: bento-hugo-theme
+  googleAnalytics: UA-XXXXXX-YY
+  pygmentsCodefences: yes
+  pygmentsStyle: vs
+  tag: tags
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes
+  highlight:
+    style: github
+params:
+  authorBio: Bento is a doggo who likes to code. Follow him on <a href='#'>Twitter</a>
+  avatar: images/avatar.jpg
+  copyright: Copyright © 2020 Someone
+  cover: images/vancouver.jpg
+  description: A minimalist theme for Hugo, build with Tailwind CSS.
+  email: email@xxxx.com
+  fathomAnalytics:
+    serverURL: analytics.example.com
+    siteID: XXXXX
+  github: XXXX
+  headline: This is a headline
+  intro: yes
+  linkedin: https://linkedin.com/in/XXXX
+  ogImage: images/og_image.jpg
+  twitter: XXXX
+  umami:
+    siteID: XXXXX
+    trackerScript: //umami.example.com/umami.js
+menu:
+  main:
+    - name: About
+      url: /about
+      weight: 1
+    - name: Archives
+      url: /archives
+      weight: 1
+    - name: Source code
+      url: https://github.com/leonardofaria/bento
+      weight: 1
