@@ -38,12 +38,18 @@ params:
     trackerScript: //umami.example.com/umami.js
 menu:
   main:
+    - name: Home
+      url: /home
+      weight: 1
     - name: About
       url: /about
-      weight: 1
-    - name: Archives
-      url: /archives
-      weight: 1
+      weight: 2
     - name: Meet The Team
-      url: https://github.com/leonardofaria/bento
-      weight: 1
+      url: /meettheteam
+      weight: 3
+    - name: Posts
+      url: /posts
+      weight: 4
+    - name: Contact
+      url: contact
+      weight: 5
