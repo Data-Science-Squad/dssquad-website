@@ -10,7 +10,7 @@ description: Sample article showcasing basic Markdown syntax and formatting for 
   elements.
 series:
 - Themes Guide
-thumbnail: images/madison.jpg
+thumbnail: images/deng.jpg
 tags:
 - team
 - project
