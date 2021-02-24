@@ -1,0 +1,62 @@
+baseURL: https://example.com
+languageCode: en
+DefaultContentLanguage: en
+title: Website of dssquad
+theme: anatole
+summarylength: 10
+enableEmoji: yes
+enableRobotsTXT: yes
+pygmentsUseClasses: yes
+pygmentsCodeFences: yes
+pygmentsCodefencesGuessSyntax: yes
+params:
+  author: The dssquad Team
+  customCss: []
+  customJs: []
+  description: We build the future from today's data
+  doNotLoadAnimations: no
+  favicon: favicons/
+  images: images/site-feature-image.png
+  keywords: ''
+  mainSections: post
+  math:
+    enable: no
+    use: katex
+  profilePicture: images/profile.png
+  simpleAnalytics: {}
+  socialIcons:
+    - icon: fab fa-linkedin
+      title: Linkedin
+      url: https://de.linkedin.com/
+    - icon: fab fa-github
+      title: GitHub
+      url: https://github.com/lxndrblz/anatole/
+    - icon: fab fa-instagram
+      title: instagram
+      url: https://www.instagram.com/
+    - icon: fas fa-envelope
+      title: e-mail
+      url: mailto:mail@alexbilz.com
+  title: We are dssquad
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 100
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 200
+    - identifier: posts
+      name: Posts
+      url: /post/
+      weight: 300
+    - identifier: meettheteam
+      name: Meet The Team
+      url: /meettheteam/
+      weight: 400
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 500
