@@ -51,5 +51,5 @@ menu:
       url: /posts
       weight: 4
     - name: Contact
-      url: contact
+      url: /contact
       weight: 5

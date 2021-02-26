@@ -10,7 +10,7 @@ hideAuthorBio: "true"
 hideComments: "true"
 hideMetadata: "true"
 hideSuggestions: "true"
-title: About
+title: About the Data Product
 type: Page
 ---
 
