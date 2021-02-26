@@ -39,7 +39,7 @@ params:
 menu:
   main:
     - name: Home
-      url: /home
+      url: /
       weight: 1
     - name: About
       url: /about
