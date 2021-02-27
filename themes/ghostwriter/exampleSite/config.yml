@@ -1,8 +1,8 @@
-baseurl: "/"
-title: Data Product Documentation
+baseurl: "https://example.com/"
+title: Ghostwriter example
 theme: ghostwriter
 languageCode: en-us
-copyright: dssquad
+copyright: My Name
 disqusShortname: XXX
 googleAnalytics: XXX
 pygmentsUseClasses: true
@@ -28,7 +28,7 @@ privacy:
     useSessionStorage: false
 
 author:
-  name: dssquad
+  name: My Name
   profile: ""
 
 taxonomies:
@@ -38,8 +38,8 @@ params:
   mainSections:
     - post
   intro: true
-  headline: Data Product Documentation
-  description: This website gives a full documentation of the data product built by the dssquad team
+  headline: Ghostwriter example
+  description: Ghostwriter example description
   github: "https://github.com/XXX"
   gitlab: "https://gitlab.com/XXX"
   linkedin: "https://linkedin.com/in/XXX/"
@@ -72,18 +72,15 @@ permalinks:
 
 menu:
   main:
-    - name: Home
+    - name: Blog
       url: /
       weight: 1
-    - name: About
-      url: /page/about/
+    - name: Projects
+      url: /project/
       weight: 2
-    - name: Meet The Team
-      url: /page/meettheteam/
-      weight: 3
-    - name: Blog
-      url: /post/
-      weight: 4
     - name: Contact
       url: /page/contact/
+      weight: 3
+    - name: About
+      url: /page/about/
       weight: 4
