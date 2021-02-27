@@ -1,5 +1,5 @@
 baseurl: "/"
-title: Data Product Documentation
+title: Data Science Squad Product Documentation
 theme: ghostwriter
 languageCode: en-us
 copyright: dssquad
@@ -38,15 +38,9 @@ params:
   mainSections:
     - post
   intro: true
-  headline: Data Product Documentation
-  description: This website gives a full documentation of the data product built by the dssquad team
-  github: "https://github.com/XXX"
-  gitlab: "https://gitlab.com/XXX"
-  linkedin: "https://linkedin.com/in/XXX/"
-  twitter: "https://twitter.com/XXX"
-  stackoverflow: "https://stackoverflow.com/users/XXX/YYY"
-  facebook: "https://www.facebook.com/username"
-  email: XXX@example.com
+  headline: Data Science Squad
+  description: We are a diverse, global team of data professionals who organized for the experience of engineering an open source, production-grade data science application.
+  github: "https://github.com/Data-Science-Squad"
   opengraph: true
   shareTwitter: true
   rss: true

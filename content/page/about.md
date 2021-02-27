@@ -1,7 +1,7 @@
 ---
 author: My Name
 date: "2015-04-03T02:13:50Z"
-description: Things about me.
+description: We are a team of 6 data professionals from all over the world.
 title: About
 ---
 
