@@ -36,7 +36,7 @@ taxonomies:
 
 params:
   mainSections:
-    - post
+    - homepage
   intro: true
   headline: Data Science Squad
   description: We are a diverse, global team of data professionals who organized for the experience of engineering an open source, production-grade data science application.
@@ -45,14 +45,14 @@ params:
   shareTwitter: true
   rss: true
   shareFacebook: true
-  shareLinkedIn: false
+  shareLinkedIn: true
   dateFormat: "Mon, Jan 2, 2006"
   exponeaJsUrl: ""
   exponeaTarget: ""
   exponeaToken: ""
   exponeaTrackVisits: false
   readingTime: true
-  readingTimeText: "Estimated reading time:"
+  readingTimeText: "Reading time:"
   fathomUrl: ""
   fathomSiteId: ""
   # If you want to use plausible(https://plausible.io) for analytics, add this section
@@ -69,7 +69,7 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: About
+    - name: About The Project
       url: /page/about/
       weight: 2
     - name: Meet The Team
@@ -80,4 +80,4 @@ menu:
       weight: 4
     - name: Contact
       url: /page/contact/
-      weight: 4
+      weight: 5
