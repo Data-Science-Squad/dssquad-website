@@ -2,7 +2,7 @@
 
 The DSSQQUAD CRIME PREDICTOR is a software product that serves the purpose of predicting daily crime volumes in different geographical locations in Buffalo city based on information collected about the associated neighborhood, district etc. The information on the predicted crime volumes by location allows the police department to determine the appropriate number of patrols to deploy to each location.
 
-**[Get started with this tutorial](alink)**
+- **[Get started with this tutorial](alink)**
 
 ## Overview ##
 The interaction with the crime predictor platform happens through an interactive web application. The crime volume being predicted spans through a short-term period (typically 7 days). By configuring options in the web application, the predicted amount of crime is displayed alongside the associated location in a dashboard present in the website.
