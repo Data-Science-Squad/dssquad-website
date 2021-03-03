@@ -5,21 +5,16 @@ The DSSQQUAD CRIME PREDICTOR is a software product that serves the purpose of pr
 **[Get started with this tutorial](alink)**
 
 ## Overview ##
----
 The interaction with the crime predictor platform happens through an interactive web application. The crime volume being predicted spans through a short-term period (typically 7 days). By configuring options in the web application, the predicted amount of crime is displayed alongside the associated location in a dashboard present in the website.
 
 ### Reliable Data ###
----
 The data used to predict the crime volumes are collected from the official website of the Buffalo police department.
 
 ### High accuracy prediction model ###
----
 The machine learning model used to make the predictions gives high accuracy after extensive test.
 
 ### Responsive web application ###
----
 The dashboard and all configuration interfaces in the website gives a pleasing user experience
 
 ### Flexible configuration options ###
----
 Configuring the web application to predict crime volume allows for variety of options in the prediction duration.
