@@ -67,7 +67,7 @@ permalinks:
 menu:
   main:
     - name: Home
-      url: /
+      url: /page/homepg/
       weight: 1
     - name: About The Project
       url: /page/about/
