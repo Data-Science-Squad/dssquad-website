@@ -39,11 +39,10 @@ params:
     - homepage
   intro: true
   headline: Data Science Squad
-  description: We are a diverse, global team of data professionals who organized for the experience of engineering an open source, production-grade data science application.
+  #description: We are a diverse, global team of data professionals who organized for the experience of engineering an open source, production-grade data science application.
   github: "https://github.com/Data-Science-Squad"
   opengraph: true
   shareTwitter: true
-  rss: true
   shareFacebook: true
   shareLinkedIn: true
   dateFormat: "Mon, Jan 2, 2006"
@@ -66,18 +65,13 @@ permalinks:
 
 menu:
   main:
-    - name: Home
-      url: /page/homepg/
-      weight: 1
     - name: About The Project
-      url: /page/about/
-      weight: 2
+      url: /about-the-project
+      weight: 1
     - name: Meet The Team
-      url: /page/meettheteam/
-      weight: 3
-    - name: Blog
+      url: /meet-the-team
+      weight: 2
+    - name: Articles
       url: /post/
-      weight: 4
-    - name: Contact
-      url: /page/contact/
-      weight: 5
+      weight: 3
+      

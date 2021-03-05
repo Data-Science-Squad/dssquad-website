@@ -2,12 +2,12 @@
 
 <div id="post-index" class="container" itemscope="" itemtype="https://schema.org/Blog">
     {{ partial "intro.html" . }}
-
-    {{ partial "dm-test-homepage.html" . }}
-
-    <div class="post-navigation">
-        {{ partial "pagination.html" . }}
+    
+    <div class="post-header">
+        {{ partial "homepage-subtitle.html" . }}
+        <div style="text-align:left">
+            {{ partial "homepage-subtitle-links.html" . }}
+        </div>
     </div>
+    
 </div>
-
-{{ partial "footer.html" . }}
