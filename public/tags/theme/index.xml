@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>theme on Data Science Squad Product Documentation</title>
+    <link>/tags/theme/</link>
+    <description>Recent content in theme on Data Science Squad Product Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>dssquad</copyright>
+    <lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing content</title>
+      <link>/2020/07/05/writing-content/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/07/05/writing-content/</guid>
+      <description>Check in this post a few tips to use Bento better :)
+Hiding design elements You can hide elements shown in the single page. Check this example - from the about page:
+hideMetadata = &amp;quot;true&amp;quot;hideAuthorBio = &amp;quot;true&amp;quot;hideComments = &amp;quot;true&amp;quot;hideSuggestions = &amp;quot;true&amp;quot; hideMetadata hides the date about the page title hideAuthorBio hides the avatar / author bio hideComments hides Disqus comments hideSuggestions hides previous/next posts  Using TailwindCSS Using the Bento theme, you can use TailwindCSS to create custom designs.</description>
+    </item>
+    
+    <item>
+      <title>Configuring the theme</title>
+      <link>/2020/07/04/configuring-the-theme/</link>
+      <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/07/04/configuring-the-theme/</guid>
+      <description>Sharing the config.toml used in this website:
+# Better code higlighting # via https://discourse.gohugo.io/t/pygmentscodefences-how-to-choose-themes/3842/3 pygmentsCodefences = true pygmentsStyle = &amp;#34;vs&amp;#34; # Integrations googleAnalytics = &amp;#34;UA-XXXXXX-XX&amp;#34; disqusShortname = &amp;#34;your-disqus-shortname&amp;#34; # Hightlight theme [markup.highlight] style = &amp;#34;github&amp;#34; # Allow HTML rendering inside markdown [markup.goldmark.renderer] unsafe = true [params] # Show intro in the home page (with headline and description) intro = true headline = &amp;#34;This is a headline&amp;#34; description = &amp;#34;A minimalist theme for Hugo, build with Tailwind CSS.</description>
+    </item>
+    
+  </channel>
+</rss>
