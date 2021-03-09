@@ -39,7 +39,7 @@ params:
     - homepage
   intro: true
   headline: Data Science Squad
-  #description: We are a diverse, global team of data professionals who organized for the experience of engineering an open source, production-grade data science application.
+  description: We are a diverse, global team of data professionals who organized for the experience of engineering an open source, production-grade data science application.
   github: "https://github.com/Data-Science-Squad"
   opengraph: true
   shareTwitter: true
