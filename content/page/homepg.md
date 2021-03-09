@@ -1,6 +1,6 @@
-# DSSQUAD CRIME PREDICTOR #
+# SAVEBUFFALO #
 
-The DSSQQUAD CRIME PREDICTOR is a software product that serves the purpose of predicting daily crime volumes in different geographical locations in Buffalo city based on information collected about the associated neighborhood, district etc. The information on the predicted crime volumes by location allows the police department to determine the appropriate number of patrols to deploy to each location.
+SAVEBUFFALO is a software product that serves the purpose of predicting daily crime volumes in different geographical locations in Buffalo city based on information collected about the associated neighborhood, district etc. The information on the predicted crime volumes by location allows the police department to determine the appropriate number of patrols to deploy to each location.
 
 - **[Get started with this tutorial](alink)**
 
