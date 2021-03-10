@@ -76,7 +76,7 @@ img {
     display: block;
     margin: 40px 0;
     width: auto;
-    max-width: 100%;
+    max-width: 50%;
 
     &[src$="align-center"] {
         margin: auto;
@@ -85,8 +85,10 @@ img {
     &[src$="align-left"] {
         float: left;
         margin-right: 40px;
+        margin-top: 0px;
+        max-width: 50% !important;
     }
-    
+
     &[src$="align-right"] {
         float: right;
         margin-left: 40px;
@@ -792,3 +794,5 @@ table {
 
     .footer-copyright { padding: 0 10px; }
 }
+
+

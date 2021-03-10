@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Data Science Squad Product Documentation</title>
+    <title>Posts on Home</title>
     <link>/post/</link>
-    <description>Recent content in Posts on Data Science Squad Product Documentation</description>
+    <description>Recent content in Posts on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>dssquad</copyright>
@@ -14,9 +14,9 @@
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
       <guid>/2020/12/01/2020-12-01-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <guid>/2020/07/05/writing-content/</guid>
       <description>Check in this post a few tips to use Bento better :)
 Hiding design elements You can hide elements shown in the single page. Check this example - from the about page:
-hideMetadata = &amp;quot;true&amp;quot;hideAuthorBio = &amp;quot;true&amp;quot;hideComments = &amp;quot;true&amp;quot;hideSuggestions = &amp;quot;true&amp;quot; hideMetadata hides the date about the page title hideAuthorBio hides the avatar / author bio hideComments hides Disqus comments hideSuggestions hides previous/next posts  Using TailwindCSS Using the Bento theme, you can use TailwindCSS to create custom designs.</description>
+hideMetadata = &amp;quot;true&amp;quot; hideAuthorBio = &amp;quot;true&amp;quot; hideComments = &amp;quot;true&amp;quot; hideSuggestions = &amp;quot;true&amp;quot;  hideMetadata hides the date about the page title hideAuthorBio hides the avatar / author bio hideComments hides Disqus comments hideSuggestions hides previous/next posts  Using TailwindCSS Using the Bento theme, you can use TailwindCSS to create custom designs.</description>
     </item>
     
     <item>
@@ -104,8 +104,8 @@ This document is a brief primer on using go templates.</description>
       
       <guid>/2014/04/02/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/▾ images/logo.png should become
-▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
   </channel>
