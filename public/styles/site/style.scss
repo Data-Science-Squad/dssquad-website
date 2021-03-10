@@ -2,7 +2,7 @@
 // ============================================================ //
 // ============================================================ //
 
-$primary: #1f941d !important;
+$primary: #F03838;
 $secondary: #303030;
 $background: #FEFEFE;
 
@@ -20,7 +20,7 @@ body {
 }
 
 b, strong {
-    color: #1f941d
+    color: #F03838
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -85,8 +85,10 @@ img {
     &[src$="align-left"] {
         float: left;
         margin-right: 40px;
+        margin-top: 0px;
+        max-width: 50% !important;
     }
-    
+
     &[src$="align-right"] {
         float: right;
         margin-left: 40px;
@@ -285,7 +287,7 @@ table {
 .post-container { margin: 0 40px; }
 
 .post-header {
-    border-bottom: 6px solid  $secondary;
+    border-bottom: 0px solid  $secondary !important;
     margin: 0 0 20px;
     padding: 0 0 20px;
     text-align: center;
@@ -792,3 +794,5 @@ table {
 
     .footer-copyright { padding: 0 10px; }
 }
+
+

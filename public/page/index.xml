@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Data Science Squad Product Documentation</title>
+    <title>Pages on Home</title>
     <link>/page/</link>
-    <description>Recent content in Pages on Data Science Squad Product Documentation</description>
+    <description>Recent content in Pages on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>dssquad</copyright>
@@ -39,16 +39,6 @@ Danny Morris</description>
       
       <guid>/page/meettheteam/</guid>
       <description>Meet the Team Mateen I love Git so much!</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/page/homepg/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/page/homepg/</guid>
-      <description>DSSQUAD CRIME PREDICTOR The DSSQQUAD CRIME PREDICTOR is a software product that serves the purpose of predicting daily crime volumes in different geographical locations in Buffalo city based on information collected about the associated neighborhood, district etc. The information on the predicted crime volumes by location allows the police department to determine the appropriate number of patrols to deploy to each location.
- Get started with this tutorial  Overview The interaction with the crime predictor platform happens through an interactive web application.</description>
     </item>
     
   </channel>

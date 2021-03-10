@@ -56,9 +56,6 @@
     <loc>/homepage/dataut/</loc>
     <lastmod>2020-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -95,9 +92,6 @@
     <loc>/2019/03/05/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/page/about/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url><url>
@@ -109,12 +103,6 @@
   </url><url>
     <loc>/page/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
-  </url><url>
-    <loc>/project/my-awesome-project/</loc>
-    <lastmod>2014-11-18T02:13:50+00:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2014-11-18T02:13:50+00:00</lastmod>
   </url><url>
     <loc>/2014/09/28/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T02:13:50+00:00</lastmod>
@@ -137,7 +125,7 @@
     <loc>/tags/templates/</loc>
     <lastmod>2014-04-02T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>/page/homepg/</loc>
+    <loc>/about-the-project/</loc>
   </url><url>
     <loc>/tags/index/</loc>
   </url><url>
