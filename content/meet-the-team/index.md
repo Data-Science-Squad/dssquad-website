@@ -3,22 +3,18 @@ title: Meet the Team
 description: Meet and connect with the amazing developers on this project
 ---
 
-### Meet Abdul-Mateen, Quality Assurance Analyst
-
 {{< figure src="images/Python.png#align-left" >}}
 
-Hi, I'm Mateen. I took on the lead role in developing the website for this project while supporting the other develops with various QA tasks to ensure the integrity of our work. Connect me on [LinkedIn](https://www.linkedin.com/in/abdul-mateen-qamardeen-4167331b6/?originalSubdomain=ng).
+**Abdul-Mateen**, serving as the website developer, took on the lead role in developing the website for this project while supporting the other developers with various quality assurrance tasks to ensure the integrity of our work. He is a freelance R Developer. When not coding, he takes his time listening to blues music. Connect with Abdul-Mateen on [LinkedIn](https://www.linkedin.com/in/abdul-mateen-qamardeen-4167331b6/?originalSubdomain=ng).
 
 ---
-
-### Meet Danny, Team Lead
 
 {{< figure src="images/R.png#align-left" >}}
 
-Hi, I'm Danny. I launched this project to gain leadership experience through the process of leading engineers from all over the world to develop a modern product powered by data science. 
+**Danny**, serving as the team lead, launched this project to gain leadership experience through the process of leading engineers from all over the world to develop a modern product powered by data science. Connect with Danny on [LinkedIn](https://www.linkedin.com/in/abdul-mateen-qamardeen-4167331b6/?originalSubdomain=ng).
 
 ---
 
 {{< figure src="images/Python.png#align-left" >}}
 
-Hi, I'm Mateen. I took on the lead role in developing the website for this project while supporting the other develops with various QA tasks to ensure the integrity of our work. Connect me on [LinkedIn](https://www.linkedin.com/in/abdul-mateen-qamardeen-4167331b6/?originalSubdomain=ng).
+**Eric**, serving as the data engineer, took on the lead role in developing the database pipeline which ensured the smooth flow and storage of data for the project. Connect with Eric on [LinkedIn](https://www.linkedin.com/in/abdul-mateen-qamardeen-4167331b6/?originalSubdomain=ng).
