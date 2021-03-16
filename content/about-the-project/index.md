@@ -1,6 +1,6 @@
 ---
-title: About FORECAST-HUB
-description: Detailed information on the FORECAST-HUB software product
+title: ABOUT FORECAST-HUB
+description: DETAILED INFORMATION ON THE FORECAST-HUB SOFTWARE PRODUCT
 ---
 
 # FORECAST-HUB #
@@ -9,17 +9,17 @@ FORECAST-HUB is a software product that serves the purpose of predicting daily c
 
 - **[Get started with this tutorial](alink) >>**
 
-## Overview ##
+## OVERVIEW ##
 The interaction with the crime predictor platform happens through an interactive web application. The crime volume being predicted spans through a short-term period (typically 7 days). By configuring options in the web application, the predicted amount of crime is displayed alongside the associated location in a dashboard present in the website.
 
-### Reliable Data ###
+### RELIABLE DATA ###
 The data used to predict the crime volumes are collected from the official website of the Buffalo police department.
 
-### High accuracy prediction model ###
+### HIGH ACCURACY PREDICTION MODEL ###
 The machine learning model used to make the predictions gives high accuracy after extensive test.
 
-### Responsive web application ###
+### RESPONSIVE WEB APPLICATION ###
 The dashboard and all configuration interfaces in the website gives a pleasing user experience
 
-### Flexible configuration options ###
+### FLEXIBLE CONFIGURATION OPTIONS ###
 Configuring the web application to predict crime volume allows for variety of options in the prediction duration.

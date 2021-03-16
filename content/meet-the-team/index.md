@@ -1,6 +1,6 @@
 ---
-title: Meet the Team
-description: Meet and connect with the amazing developers on this project
+title: MEET THE TEAM
+description: MEET AND CONNECT WITH THE AMAZING DEVELOPERS ON THIS PROJECT
 ---
 
 {{< figure src="images/Python.png#align-left" >}}

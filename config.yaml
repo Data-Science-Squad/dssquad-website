@@ -1,5 +1,5 @@
 baseurl: "/"
-title: Home
+title: HOME
 theme: ghostwriter
 languageCode: en-us
 copyright: dssquad
@@ -38,8 +38,8 @@ params:
   mainSections:
     - homepage
   intro: true
-  headline: Data Science Squad
-  description: We are a diverse, global team of data professionals who organized for the experience of engineering an open source, production-grade data science application.
+  headline: DATA SCIENCE SQUAD
+  description: WE ARE A DIVERSE, GLOBAL TEAM OF DATA PROFESSIONALS WHO ORGANIZED FOR THE EXPERIENCE OF ENGINEERING AN OPEN SOURCE, PRODUCTION-GRADE DATA SCIENCE APPLICATION.
   github: "https://github.com/Data-Science-Squad"
   opengraph: true
   shareTwitter: true
@@ -65,12 +65,12 @@ permalinks:
 
 menu:
   main:
-    - name: About The Forecast-Hub Product
+    - name: ABOUT THE FORECAST-HUB PROJECT
       url: /about-the-project
       weight: 1
-    - name: Meet The Team
+    - name: MEET THE TEAM
       url: /meet-the-team
       weight: 2
-    - name: Articles
+    - name: ARTICLES
       url: /post/
       weight: 3
