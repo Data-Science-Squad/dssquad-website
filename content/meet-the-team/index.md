@@ -3,7 +3,7 @@ title: Meet the Team
 description: Meet and connect with the amazing developers on this project
 ---
 
-{{< figure src="images/Python.png#align-left" >}}
+{{< figure src="images/Python.png#align-left" >}} Meet Mateen
 
 **Abdul-Mateen**, serving as the website developer, took on the lead role in developing the website for this project while supporting the other developers with various quality assurrance tasks to ensure the integrity of our work. He is a freelance R Developer. When not coding, he takes his time listening to blues music. Connect with Abdul-Mateen on [LinkedIn](https://www.linkedin.com/in/abdulmateenqamardeen/).
 

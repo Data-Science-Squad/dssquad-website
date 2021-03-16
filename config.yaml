@@ -65,7 +65,7 @@ permalinks:
 
 menu:
   main:
-    - name: About The Forecast-Hub Project
+    - name: About The Forecast-Hub Product
       url: /about-the-project
       weight: 1
     - name: Meet The Team
