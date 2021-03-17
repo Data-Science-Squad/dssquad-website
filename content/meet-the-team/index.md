@@ -5,7 +5,7 @@ description: MEET AND CONNECT WITH THE AMAZING DEVELOPERS ON THIS PROJECT
 
 {{< figure src="images/Python.png#align-left" >}}
 
-**ABDUL-MATEEN**, serving as the **website developer**, took on the lead role in developing the website for this project while supporting the other developers with various quality assurrance tasks to ensure the integrity of our work. He is a freelance R Developer. [LinkedIn](https://www.linkedin.com/in/abdulmateenqamardeen/).
+**ABDUL-MATEEN**, serving as the **website developer**, took on the lead role in developing the website for this project while supporting the other developers with various quality assurrance tasks to ensure the integrity of our work. He is a freelance R Developer. Connect with Abdul-Mateen on  [LinkedIn](https://www.linkedin.com/in/abdulmateenqamardeen/).
 
 ---
 
