@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home</title>
+    <title>HOME</title>
     <link>/</link>
-    <description>Recent content on Home</description>
+    <description>Recent content on HOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>dssquad</copyright>
@@ -160,23 +160,23 @@ This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
-      <title>About FORECASTHUB</title>
+      <title>ABOUT FORECAST-HUB</title>
       <link>/about-the-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about-the-project/</guid>
-      <description>FORECASTHUB FORECASTHUB is a software product that serves the purpose of predicting daily crime volumes in different geographical locations in Buffalo city based on information collected about the associated neighborhood, district etc. The information on the predicted crime volumes by location allows the police department to determine the appropriate number of patrols to deploy to each location.
- Get started with this tutorial  Overview The interaction with the crime predictor platform happens through an interactive web application.</description>
+      <description>FORECAST-HUB FORECAST-HUB is a software product that serves the purpose of predicting daily crime volumes in different geographical locations in Buffalo city based on information collected about the associated neighborhood, district etc. The information on the predicted crime volumes by location allows the police department to determine the appropriate number of patrols to deploy to each location.
+ Get started with this tutorial &amp;raquo;  OVERVIEW The interaction with the crime predictor platform happens through an interactive web application.</description>
     </item>
     
     <item>
-      <title>Meet the Team</title>
+      <title>MEET THE TEAM</title>
       <link>/meet-the-team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/meet-the-team/</guid>
-      <description>Use this document (located at content/meet-the-team/index.md) to describe our team.
-  Some text Some text Some text Some text Some text Some text Some text Some text Some text Some text Some text Some text Some text Some text Some text Some text Some text Some text</description>
+      <description>ABDUL-MATEEN, serving as the website developer, took on the lead role in developing the website for this project while supporting the other developers with various quality assurrance tasks to ensure the integrity of our work. He is a freelance R Developer. Connect with Abdul-Mateen on LinkedIn.
+   DANNY, serving as the team lead, launched this project to gain leadership experience through the process of leading engineers from all over the world to develop a modern product powered by data science.</description>
     </item>
     
   </channel>
