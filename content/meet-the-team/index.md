@@ -11,7 +11,7 @@ description: MEET AND CONNECT WITH THE AMAZING DEVELOPERS ON THIS PROJECT
 
 {{< figure src="dm/headshot.jpg#align-left" >}}
 
-Copy and paste content from `meet-the-team/dm/bio.md` here.Copy and paste content from `meet-the-team/dm/bio.md` here.Copy and paste content from `meet-the-team/dm/bio.md` here.Copy and paste content from `meet-the-team/dm/bio.md` here.Copy and paste content from `meet-the-team/dm/bio.md` here.Copy and paste content from `meet-the-team/dm/bio.md` here.Copy and paste content from `meet-the-team/dm/bio.md` here.Copy and paste content from `meet-the-team/dm/bio.md` here.Copy and paste content from `meet-the-team/dm/bio.md` here.Copy and paste content from `meet-the-team/dm/bio.md` here.Copy and paste content from `meet-the-team/dm/bio.md` here.Copy and paste content from `meet-the-team/dm/bio.md` here.Copy and paste content from `meet-the-team/dm/bio.md` here.Copy and paste content from `meet-the-team/dm/bio.md` here.Copy and paste content from `meet-the-team/dm/bio.md` here.
+**Danny Morris**, serving as the **Team Lead**, launched this project to gain leadership experience through the process of leading engineers from all over the world to develop a modern product powered by data science. Connect with Danny on [LinkedIn](https://www.linkedin.com/in/drmorris87/).
 
 ---
 
