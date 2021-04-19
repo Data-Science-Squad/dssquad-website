@@ -18,3 +18,12 @@ description: MEET AND CONNECT WITH THE AMAZING DEVELOPERS ON THIS PROJECT
 {{< figure src="images/Python.png#align-left" >}}
 
 **ERIC**, serving as the **data engineer**, took on the lead role in developing the database pipeline which ensured the smooth flow and storage of data for the project. Connect with Eric on [LinkedIn](https://www.linkedin.com/in/ericrcaskey/).
+
+---
+
+{{< figure src="dm/headshot.jpg#align-left" >}}
+
+**Gayatri**, serving as the **machine learning engineer**, played a very active part in designing and implementing the machine learning models used for predictions. She is currently a senior at Banasthali Vidyapith, India pursuing a bachelor's degree in Computer Science Engineering. She has varied interests ranging from web development and android development to machine learning and data science. In the past, she has worked as a Full Stack Web Development Intern at Beyond Alphabets, India. Upon graduation, she will be joining UBS, India as a Software Engineer. Connect with Gayatri on [LinkedIn](https://www.linkedin.com/in/gayatridobhal/).
+
+---
+
